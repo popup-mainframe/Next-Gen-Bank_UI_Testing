@@ -29,6 +29,7 @@ Run `npm install Protractor` to intsall Protractor
 
 ## Note
 protractor.conf.js: Protractor configuration file.
+
 e2e-spec.ts: Main e2e test specification file.
  
 ## Further help
