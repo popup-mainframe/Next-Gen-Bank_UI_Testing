@@ -1,7 +1,7 @@
 # Next-Gen-Bank_UI_Testing
 This repository contains the UI code for the Next-Gen Bank application, along with comprehensive unit tests and end-to-end (e2e) tests using Protractor. 
 
-# NextGenBank1
+# NextGenBank
  
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.7.
  
