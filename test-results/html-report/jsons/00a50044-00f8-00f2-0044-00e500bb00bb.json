@@ -1,0 +1,1 @@
+{"description":"should open the login form, enter credentials, and log in with custom headers|Login Functionality","passed":true,"pending":false,"os":"windows","sessionId":"a9d2cec2832b23ed2ebb8fa59649d9b1","instanceId":32736,"browser":{"name":"chrome","version":"126.0.6478.127"},"message":"Passed.","trace":"","browserLogs":[],"timestamp":1719573136802,"duration":12688}
